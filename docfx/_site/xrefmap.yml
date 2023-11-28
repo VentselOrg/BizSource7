@@ -1,0 +1,12 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: N:Module::MyApp
+  name: MyApp
+  summary: ''
+  fqName: MyApp by Artur (1.0.0.0)
+  href: reference/myapp/Module/MyApp.html
+- uid: O:PageExtension::CustomerListExt
+  name: CustomerListExt
+  fqName: CustomerListExt
+  href: reference/myapp/PageExtension/CustomerListExt.html

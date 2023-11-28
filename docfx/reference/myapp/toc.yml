@@ -1,0 +1,9 @@
+﻿items:
+- name: Overview
+  uid: N:Module::MyApp
+- name: Reference
+  items:
+  - name: PageExtensions
+    items:
+    - name: CustomerListExt
+      uid: O:PageExtension::CustomerListExt
